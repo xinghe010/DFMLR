@@ -1,0 +1,14 @@
+Model,S_DYK2,S_DDK2,R_DYK2,R_DDK2
+Model $\mathbf{M2}$ fitted with $D_{DK}$ and TFNs,239.89,98.04,0.8796,0.8526
+Model $\mathbf{M2}$ fitted with $D_{YK}$ and TFNs,235.19,99.98,0.882,0.8496
+Model $\mathbf{M2}$ fitted with $D_{DK}$ and NFNs,268.93,113.15,0.8673,0.8341
+Model $\mathbf{M2}$ fitted with $D_{YK}$ and NFNs,265.27,114.66,0.8691,0.8319
+Model $\mathbf{M3}$ fitted with $D_{DK}$ and TFNs,170.38,60.04,0.9145,0.9097
+Model $\mathbf{M3}$ fitted with $D_{YK}$ and TFNs,170.35,60.05,0.9145,0.9097
+Model $\mathbf{M3}$ fitted with NFNs,186.1,68.18,0.9082,0.9
+Classical multiple least-squares regression,189.0,63.0,0.9051,0.9053
+The two-stage fuzzy linear regression,276.93,114.99,0.8604,0.8271
+The weighted least-squares fuzzy regression,180.29,62.82,0.9091,0.9055
+The least-median-squares robust fuzzy regression,189.82,66.03,0.9043,0.9007
+The alpha-cut interval least-squares fuzzy regression,290.3,119.32,0.8537,0.8206
+The robust fuzzy-random-variable regression,325.51,138.12,0.836,0.7923
